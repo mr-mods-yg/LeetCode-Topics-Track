@@ -32,7 +32,7 @@
 - [ ] 27. [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
 - [ ] 28. [Minimum Cost to Move Chips to The Same Position](https://leetcode.com/problems/minimum-cost-to-move-chips-to-the-same-position/)
 
-- [ ] ### Medium
+### Medium
 - [x] 1. [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)
 - [ ] 2. [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/)
 - [ ] 3. [Spiral Matrix III](https://leetcode.com/problems/spiral-matrix-iii/)
@@ -43,7 +43,7 @@
 - [ ] 8. [Rotate Array](https://leetcode.com/problems/rotate-array/)
 - [ ] 9. [Sort Colors](https://leetcode.com/problems/sort-colors/)
  
-- [ ] ### Hard
+### Hard
 - [ ] 1. [Max Value of Equation](https://leetcode.com/problems/max-value-of-equation/)
 - [ ] 2. [First Missing Positive](https://leetcode.com/problems/first-missing-positive/)
 - [ ] 3. [Good Array](https://leetcode.com/problems/check-if-it-is-a-good-array/)
