@@ -17,7 +17,7 @@
 - [x] [Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/)
 - [x] [Search Insert Position](https://leetcode.com/problems/search-insert-position/)
 - [x] [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/)
-- [ ] [Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/)
+- [x] [Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/)
 - [x] [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) (will look later)
 - [ ] [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) (will look later)
 - [x] [Fair Candy Swap](https://leetcode.com/problems/fair-candy-swap/)
