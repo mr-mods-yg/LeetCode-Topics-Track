@@ -43,6 +43,7 @@
 - [x] [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)
 - [ ] [Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/)
 - [ ] [4 Sum](https://leetcode.com/problems/4sum/)
+- [x] [Minimum Number of Days to Make m Bouquets](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/) (added)
 
 ## Hard
 - [ ] [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)
