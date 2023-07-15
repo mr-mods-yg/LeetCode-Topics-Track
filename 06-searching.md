@@ -46,7 +46,7 @@
 - [x] [Minimum Number of Days to Make m Bouquets](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/) (added) (optimized with 97.84% Runtime)
 - [x] [Find the Smallest Divisor Given a Threshold](https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/) (added)
 ## Hard
-- [ ] [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)
+- [x] [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) (revise later)
 - [ ] [Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/)
 - [ ] [Aggressive cows](https://www.spoj.com/problems/AGGRCOW/)
 - [ ] [Book allocation](https://www.geeksforgeeks.org/allocate-minimum-number-pages/)
