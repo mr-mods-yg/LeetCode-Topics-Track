@@ -47,7 +47,7 @@
 - [x] [Find the Smallest Divisor Given a Threshold](https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/) (added)
 ## Hard
 - [x] [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) (revise later)
-- [ ] [Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/)
+- [x] [Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/) 
 - [ ] [Aggressive cows](https://www.spoj.com/problems/AGGRCOW/)
 - [ ] [Book allocation](https://www.geeksforgeeks.org/allocate-minimum-number-pages/)
 - [ ] [Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/)
