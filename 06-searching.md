@@ -48,7 +48,7 @@
 ## Hard
 - [x] [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) (revise later)
 - [x] [Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/) 
-- [ ] [Aggressive cows](https://www.spoj.com/problems/AGGRCOW/)
+- [x] [Aggressive cows](https://www.spoj.com/problems/AGGRCOW/) (revise later)
 - [ ] [Book allocation](https://www.geeksforgeeks.org/allocate-minimum-number-pages/)
 - [ ] [Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/)
 - [ ] [Find in Mountain Array](https://leetcode.com/problems/find-in-mountain-array/)
