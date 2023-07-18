@@ -51,6 +51,6 @@
 - [x] [Aggressive cows](https://www.spoj.com/problems/AGGRCOW/) (revise later)
 - [x] [Book allocation](https://www.geeksforgeeks.org/allocate-minimum-number-pages/) `test case - N=7 & [15,10,19,10,5,18,17] & M=5`
 - [x] [Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/)
-- [ ] [Find in Mountain Array](https://leetcode.com/problems/find-in-mountain-array/)
+- [x] [Find in Mountain Array](https://leetcode.com/problems/find-in-mountain-array/) (revise later)
 - [ ] [Count smaller number after Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/)
 - [ ] [Divide Chocolate Problem](https://curiouschild.github.io/leetcode/2019/06/21/divide-chocolate.html)
