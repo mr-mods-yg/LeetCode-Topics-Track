@@ -18,7 +18,7 @@
 - [x] [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/)
 - [x] [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) (custom added)
 - [x] [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/) (not an easy - maths)
-- [ ] [Implement strStr()](https://leetcode.com/problems/implement-strstr/)
+- [x] [Implement strStr()](https://leetcode.com/problems/implement-strstr/) (by string matching - later)
 - [ ] [Long Pressed Name](https://leetcode.com/problems/long-pressed-name/)
 - [ ] [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
 - [ ] [Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/)
