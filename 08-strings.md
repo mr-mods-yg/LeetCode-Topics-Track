@@ -19,7 +19,7 @@
 - [x] [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) (custom added)
 - [x] [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/) (not an easy - maths)
 - [x] [Implement strStr()](https://leetcode.com/problems/implement-strstr/) (by string matching - later)
-- [ ] [Long Pressed Name](https://leetcode.com/problems/long-pressed-name/)
+- [x] [Long Pressed Name](https://leetcode.com/problems/long-pressed-name/) (runtime efficient but not memory efficient - beats 100%)
 - [ ] [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
 - [ ] [Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/)
 - [ ] [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)
