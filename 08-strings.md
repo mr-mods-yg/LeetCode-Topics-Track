@@ -24,7 +24,7 @@
 - [x] [Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/)
 - [x] [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) (solved earlier)
 - [x] [Maximum Repeating Substring](https://leetcode.com/problems/maximum-repeating-substring/)
-- [ ] [Check if Binary String Has at Most One Segment of Ones](https://leetcode.com/problems/check-if-binary-string-has-at-most-one-segment-of-ones/)
+- [x] [Check if Binary String Has at Most One Segment of Ones](https://leetcode.com/problems/check-if-binary-string-has-at-most-one-segment-of-ones/)
 - [ ] [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/)
 - [ ] [Reverse Prefix of Word](https://leetcode.com/problems/reverse-prefix-of-word/)
 - [ ] [Roman to Integer](https://leetcode.com/problems/roman-to-integer/)
